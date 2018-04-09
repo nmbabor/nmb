@@ -1,0 +1,70 @@
+[05-May-2017 17:52:58 UTC] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php:5
+Stack trace:
+#0 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Config.php(62): require()
+#1 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(91): CKSource\CKFinder\Config->__construct('/home/maborgsma...')
+#2 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/pimple/pimple/src/Pimple/Container.php(113): CKSource\CKFinder\CKFinder->CKSource\CKFinder\{closure}(Object(CKSource\CKFinder\CKFinder))
+#3 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(185): Pimple\Container->offsetGet('config')
+#4 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/connector.php(18): CKSource\CKFinde in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php on line 5
+[05-May-2017 17:53:26 UTC] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php:5
+Stack trace:
+#0 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Config.php(62): require()
+#1 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(91): CKSource\CKFinder\Config->__construct('/home/maborgsma...')
+#2 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/pimple/pimple/src/Pimple/Container.php(113): CKSource\CKFinder\CKFinder->CKSource\CKFinder\{closure}(Object(CKSource\CKFinder\CKFinder))
+#3 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(185): Pimple\Container->offsetGet('config')
+#4 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/connector.php(18): CKSource\CKFinde in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php on line 5
+[05-May-2017 17:53:57 UTC] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php:5
+Stack trace:
+#0 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Config.php(62): require()
+#1 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(91): CKSource\CKFinder\Config->__construct('/home/maborgsma...')
+#2 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/pimple/pimple/src/Pimple/Container.php(113): CKSource\CKFinder\CKFinder->CKSource\CKFinder\{closure}(Object(CKSource\CKFinder\CKFinder))
+#3 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(185): Pimple\Container->offsetGet('config')
+#4 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/connector.php(18): CKSource\CKFinde in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php on line 5
+[05-May-2017 17:54:16 UTC] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php:5
+Stack trace:
+#0 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Config.php(62): require()
+#1 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(91): CKSource\CKFinder\Config->__construct('/home/maborgsma...')
+#2 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/pimple/pimple/src/Pimple/Container.php(113): CKSource\CKFinder\CKFinder->CKSource\CKFinder\{closure}(Object(CKSource\CKFinder\CKFinder))
+#3 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(185): Pimple\Container->offsetGet('config')
+#4 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/connector.php(18): CKSource\CKFinde in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php on line 5
+[15-May-2017 07:43:44 UTC] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php:5
+Stack trace:
+#0 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Config.php(62): require()
+#1 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(91): CKSource\CKFinder\Config->__construct('/home/maborgsma...')
+#2 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/pimple/pimple/src/Pimple/Container.php(113): CKSource\CKFinder\CKFinder->CKSource\CKFinder\{closure}(Object(CKSource\CKFinder\CKFinder))
+#3 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(185): Pimple\Container->offsetGet('config')
+#4 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/connector.php(18): CKSource\CKFinde in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php on line 5
+[15-May-2017 07:44:40 UTC] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php:5
+Stack trace:
+#0 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Config.php(62): require()
+#1 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(91): CKSource\CKFinder\Config->__construct('/home/maborgsma...')
+#2 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/pimple/pimple/src/Pimple/Container.php(113): CKSource\CKFinder\CKFinder->CKSource\CKFinder\{closure}(Object(CKSource\CKFinder\CKFinder))
+#3 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(185): Pimple\Container->offsetGet('config')
+#4 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/connector.php(18): CKSource\CKFinde in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php on line 5
+[15-May-2017 07:44:57 UTC] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php:5
+Stack trace:
+#0 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Config.php(62): require()
+#1 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(91): CKSource\CKFinder\Config->__construct('/home/maborgsma...')
+#2 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/pimple/pimple/src/Pimple/Container.php(113): CKSource\CKFinder\CKFinder->CKSource\CKFinder\{closure}(Object(CKSource\CKFinder\CKFinder))
+#3 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(185): Pimple\Container->offsetGet('config')
+#4 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/connector.php(18): CKSource\CKFinde in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php on line 5
+[15-May-2017 07:45:26 UTC] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php:5
+Stack trace:
+#0 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Config.php(62): require()
+#1 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(91): CKSource\CKFinder\Config->__construct('/home/maborgsma...')
+#2 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/pimple/pimple/src/Pimple/Container.php(113): CKSource\CKFinder\CKFinder->CKSource\CKFinder\{closure}(Object(CKSource\CKFinder\CKFinder))
+#3 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(185): Pimple\Container->offsetGet('config')
+#4 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/connector.php(18): CKSource\CKFinde in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php on line 5
+[15-May-2017 07:45:58 UTC] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php:5
+Stack trace:
+#0 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Config.php(62): require()
+#1 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(91): CKSource\CKFinder\Config->__construct('/home/maborgsma...')
+#2 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/pimple/pimple/src/Pimple/Container.php(113): CKSource\CKFinder\CKFinder->CKSource\CKFinder\{closure}(Object(CKSource\CKFinder\CKFinder))
+#3 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(185): Pimple\Container->offsetGet('config')
+#4 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/connector.php(18): CKSource\CKFinde in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php on line 5
+[15-May-2017 07:46:16 UTC] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php:5
+Stack trace:
+#0 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/Config.php(62): require()
+#1 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(91): CKSource\CKFinder\Config->__construct('/home/maborgsma...')
+#2 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/pimple/pimple/src/Pimple/Container.php(113): CKSource\CKFinder\CKFinder->CKSource\CKFinder\{closure}(Object(CKSource\CKFinder\CKFinder))
+#3 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/vendor/cksource/ckfinder/src/CKSource/CKFinder/CKFinder.php(185): Pimple\Container->offsetGet('config')
+#4 /home/maborgsmart/public_html/public/backend/plugin/ckfinder/core/connector/php/connector.php(18): CKSource\CKFinde in /home/maborgsmart/public_html/public/backend/plugin/ckfinder/config.php on line 5

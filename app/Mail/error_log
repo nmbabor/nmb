@@ -1,0 +1,1 @@
+[14-Nov-2017 23:37:11 America/New_York] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/combdebusines/public_html/app/Mail/verifyEmail.php on line 11

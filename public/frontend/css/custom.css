@@ -1,0 +1,265 @@
+.no-padding{padding: 0 !important;}
+.no-padding-left{padding-left: 0 !important;}
+.min-margin{margin: 0 5px;}
+.no-margin{margin: 0 !important;}
+.socila_link{}
+.socila_link li{float: left;margin: 0 1px;}
+.socila_link li a{float: left;padding:9px 9px;margin: 0 1px;color: #fff;}
+.side_bar_ad img{width: 100%;}
+.category-ad{margin-bottom: 0;}
+.select-category{z-index: 9}
+.subcategory {z-index: 1}
+
+.select-category ul li a{cursor: pointer;}
+.selected-product .select-category li {
+    padding-right: 10px;
+    margin-right: 10px;
+}
+.select-category span.select.cat_img {margin-right: 5px;}
+.select-category span.select.cat_img i{font-size: 16px;}
+.select-category span.select.cat_img img{width: 25px;font-size: 25px;}
+.post-option li{padding: 4px 0 4px;}
+.select-category li:before{font-size: 21px;}
+.post-option{padding: 15px;}
+.select-category li:before{top: 0;}
+.scroll-right{margin-left: -100px;transition: .5s;opacity: 0;}
+.scroll-right2{margin-left: -100px;transition: .5s;opacity: 0;}
+.select-category li:before{opacity: 1}
+.post-option li a{display: block;}
+.final-check i{color: green;opacity: 0;font-size: 23px;transition: .3s;}
+.selected-product li a{font-size: 14px;}
+.selected-product .select-category li:before{font-size: 18px;top: -2px;}
+.adpost-details .seller-info h4{margin: 0;}
+.mobile_number_list li .number-list{border-bottom:1px solid #ddd; padding:8px;color: #000;font-size: 16px;width: 100%;overflow: hidden;}
+.mobile_number_list li .number-list .checkbox label{margin: 0;}
+.mobile_number_list li .number-list .checkbox {padding: 0;}
+ .verified img{width: 20px;}
+.section.seller-info{overflow: hidden;}
+.add-image label.upload-image:before{color: rgba(0,0,0,.3);}
+/*.add-image label.upload-image input{display: block;visibility: hidden;}*/
+.adpost-details .form-group{margin-bottom: 10px;}
+.form-control{height: 38px;}
+.navbar-brand {
+    padding: 0;
+}
+.navbar-brand>img{width: 200px; height: 45px;}
+section{padding:10px 0;}
+.post-profile .my-post, .post-profile .favorites{padding: 10px 40px;}
+.user-pro-section select, .user-pro-section input{color: #000;}
+.user-pro-section .form-group.user-location .form-control{width: 100%;}
+.product_single .carousel-inner>.item>a img, .product_single .carousel-inner>.item img{width: 100%;}
+.slider-text span.icon{margin-top: 0;}
+.short-info li i {font-size: 14px;margin-right: 8px;}
+.section.slider.product_single{min-height:465px;margin-bottom: 0;border-radius: 0;padding-bottom: 0;border-bottom:1px solid #ddd;}
+.short-info li{margin-bottom: 5px;}
+.slider-text span a{margin-right: 5px;}
+.checkbox label input[type="checkbox"]{display: block;}
+.frontend_del_btn{display: inline-block;margin-right: 5px;}
+.item-info{min-height:0px;}
+.catWiseItem .item-info{min-height: 0px;}
+.ad-item{min-height: 0px;}
+.description{overflow: hidden;}
+.banner-form-full.banner-form .form-control{border-left: 1px solid #ddd;}
+#main.user-page{padding-top: 20px;}
+.user-account{padding:12px 20px;overflow: hidden;}
+.user-account h2{margin: 0;margin-bottom: 20px;font-size: 25px;}
+.user-account .btn{margin: 0;}
+.user-account .user-option{margin-top:10px;width: 100%;border-top: 1px solid #ddd;padding-top: 10px;}
+.create_btn{width: 100%;}
+
+.user-account h2, .user-account .checkbox label:hover,.user-account .checkbox .checked{color: #000;}
+.category-ad{padding-top:0 }
+.panel-default>.panel-heading{text-align: left;}
+.businessCatImg{width: 20px;float: left;margin-right: 7px;margin-top: 4px;}
+.category-list .category-item{height: 122px;}
+.productCatIcon i{font-size: 40px;color:#197b72;transition: .5s;}
+.pagination>li>a{margin:0;border-radius:0; }
+.pagination li{display: inline-block;}
+.category-info{background: #fff;}
+.category-info #accordion{border-right: 1px solid #ddd}
+.category-info #accordion .panel-default{margin-bottom: 0;}
+.category-info #accordion .panel-body {padding: 5px 8px;}
+.category-info #accordion .panel-body li.sub-category{margin-left: 15px;}
+.category-info #accordion .panel-body li.sub-category.active a{color: #00a651;font-weight: bold;}
+.category-info #accordion .panel-default>.panel-heading{background-color: #fff;border-bottom: 1px solid #efefef;border-top: 1px solid #efefef;}
+.user-pro-section .form-group{margin-bottom: 10px;}
+input::-webkit-input-placeholder {
+color: #999 !important;
+}
+ 
+input:-moz-placeholder { /* Firefox 18- */
+color: #999 !important;  
+}
+ 
+input::-moz-placeholder {  /* Firefox 19+ */
+color: #999 !important;  
+}
+ 
+input:-ms-input-placeholder {  
+color: #999 !important;  
+}
+.add-image.business-cover label.upload-image{width:83%;height: 200px;}
+.add-image.business-photo label.upload-image{width:200px;height:150px;}
+.add-image.business-cover label.upload-image img{height:100%;width: 100%;}
+.add-image.business-photo label.upload-image img{height:100%;}
+.business-btn.btn.disabled{cursor: pointer;}
+.business-section .section{padding:5px;overflow: hidden;}
+.business-section .cover-photo{position:relative;min-height: 200px;}
+.business-section .cover-photo .profile-info{width: 100%;}
+.business-section .cover-photo .profile-info img{float: left;}
+.business-section .cover-photo .profile-info h2{float: left;position: absolute;bottom: 0;left: 210px;text-shadow: 1px 1px 5px #000;color: #fff;}
+.business-section .cover-photo>img.cover{width: 100%}
+.business-section .profile-info{position: absolute;bottom:10px;left: 10px;}
+.business-details ul li{border-bottom: 1px solid #ccc;padding: 5px 0;}
+.business-details ul li h4{line-height: 30px;}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{background: #ddd;}
+#accordion .panel-body .business-category .sub-business{margin-left: 20px; }
+#accordion .panel-body .business-category .sub-business li.active a{color: green;}
+.footer-widget h3{margin-bottom: 10px;}
+.footer-widget ul li a{font-size: 14px;line-height: 15px;}
+.footer-top{padding:0;}
+.app-link {width: 100%;padding-bottom: 10px;overflow: hidden;}
+.app-link img{width: 110px;float: left;}
+.add-image label.upload-image:before{content:"\f03e";}
+.post-option{padding-top: 3px;}
+.post-option h4{margin-bottom: 10px;}
+.productCatIcon:hover i {
+    color: #888;
+}
+#main {
+    background-image:url('../images/bg/bg.jpg');
+    background-size: 100% 100%;
+    /*background:linear-gradient(#143a36,#143a36,#143a36,#fff);*/
+}
+.category-info>.row .col-md-3.col-sm-4{float: left;}
+.category-info>.row .col-sm-8.col-md-9{float: right;}
+.category-page .banner-form-full{margin: 10px 0;}
+.banner-form-full{margin: 10px 0;}
+.details-page .banner-form-full{margin: 10px 0;}
+.section{margin-bottom: 10px;padding-top:5px;padding-bottom: 10px;}
+.breadcrumb-section h2.title{margin-bottom: 0;}
+#loadLastCat{min-height: 1px;}
+.post-profile .user-menu {
+    border-top: 1px solid #f5f5f5;
+    background: #fbfafa;
+    overflow: hidden;
+}
+.post-profile .user-menu li {
+    padding: 5px 10px;
+    float: left;
+    border-right: 1px solid #ccc;
+    background: #e9ebee;
+}
+.post-profile .user-menu li.active {background:#0f7c83;}
+.post-profile .user-menu li.active a{color: #fff;}
+.post-profile .user-menu li a {color: #333;}
+.featured-top h2{margin-top: 0;font-size: 22px;color: #000;}
+.featured-top.all_post h2{margin-top:10px;}
+.mypost-page .my-post h2{margin: 0;}
+.slider-text h2{font-size: 23px;}
+.slider-text h3{margin-top: 0;}
+.job-apply-btn{overflow: hidden;border-bottom: 1px solid #ddd;padding-bottom: 10px;}
+.title{color: #00a651;margin: 0;font-size: 25px;}
+.slider-text span a{color: #00a651;}
+.job-post-field{overflow: hidden;}
+.job-post-field li{padding:3px 0;overflow: hidden;color: #000;}
+.banner-section h1.title {
+    font-size: 50px;
+    line-height: 55px;
+    color: #fff;
+}
+.banner-section h2.title {
+    font-size: 30px;
+    line-height: 34px;
+    color: #fff;
+}
+.add-image.business-photo label.upload-image.resume_profile{width: 180px; height: 200px;}
+img.resume_profile_photo{border: 5px solid #ddd;width: 125px;height: 135px;}
+.user_resume p{margin-bottom: 5px;}
+.primaryInformation ul li{overflow: hidden;border: 0;}
+.education_list ul li{overflow: hidden;border-bottom:1px solid #ddd;padding: 5px;}
+.education_list ul li .col-md-4{padding-left: 0;}
+hr {margin-top: 10px;}
+.page-title{color: #148076;font-size: 25px;margin: 0;}
+.profile-details .nav-tabs>li.active>a,.profile-details .nav-tabs>li.active>a:focus,.profile-details .nav-tabs>li.active>a:hover{background: #fff;}
+.resume-form{overflow: hidden;padding:20px;padding-bottom: 0;}
+textarea {resize: vertical;}
+.profile-details .nav-tabs{background: #fbfbfb;}
+.primaryInformation.resume .panel{border-radius: 0;}
+.applicants_list{overflow: hidden;}
+.applicants_list li{overflow: hidden;padding:5px 0;border-bottom: 1px solid #ccc;}
+.applicants_list li h4{margin: 0;}
+.applicants_list li:hover{background: #ddd;}
+.applicants_list li.active{background: #ddd;}
+.applicants_list .applicant:hover{cursor: pointer;}
+.mypost-page .my-post{overflow: hidden;}
+.mypost-page .posts-info{overflow: hidden;min-height: 350px;background: #fff;}
+.mypost-page .my-post.view-resume{min-height: 350px;overflow-y: scroll;max-height: 500px;}
+.mypost-page .all-applicants{min-height: 350px;border-right: 1px solid #ddd;overflow-y: scroll;max-height: 500px;}
+.all-applicants .cta{padding-top:5px; }
+.no-padding-right{padding-right: 0;}
+#list-btn .form-control {
+    height: 32px;
+}
+.page-content{overflow: hidden;}
+.page-sidebar{overflow: hidden;}
+.page-sidebar h4{color: #000;border-bottom: 1px solid #ddd;padding-bottom: 10px;}
+.page-sidebar li a{padding: 10px; border-bottom: 1px solid #eee;display: block;}
+.page-sidebar li a.active{color: #0d4e48;font-weight: bold;background: #ddd;padding-left: 20px;}
+.page-sidebar li a:hover{color: #0d4e48;background: #ddd;padding-left: 20px;}
+.profile a.btn, .buttons a.btn{margin-bottom: 0;}
+h1, h2, h3, h4, h5, h6{font-family: tahoma;}
+.ad-info .item-price{font-size: 17px;}
+.main_section{overflow: hidden; border-radius: 5px;}
+.user-account .panel-success>.panel-heading{    color: #ffffff;
+    background-color: #063f60;
+    padding:5px 15px;}
+.business_header h2{margin-top: 10px;}
+.nav li a, .navbar-default .navbar-nav>li{padding: 9px 0;}
+.nav li a, .navbar-default .navbar-nav>li>a {padding: 5px 12px;border: 1px solid #bbb;margin: 0 5px;border-radius: 5px;text-transform: capitalize;}
+.banner-section{padding:0px;}
+.description-info{background: #fff;}
+.recommended-info{background: #fff;overflow: hidden;}
+.banners-section{width: 100%;}
+.index-banner-one{width: 99%;}
+.banners-section img,.index-banner-one img{width: 100%;}
+.category-list .category-item .short_description{font-size: 12px;text-align: center;}
+.category-title{color: #076937}
+#footer {border-top: 3px solid #60b09b;}
+#accordion .panel-body a i{color: #197b72}
+#accordion .panel-body ul li a{color: #000}
+.top_title{color: #197b72;}
+.socila_link .social li {transition: .5s}
+.socila_link .social li a { color: #eee; width: 40px;}
+.socila_link .social li a:hover { color: #fff; }
+.socila_link .social li.facebook{background: #574AB9;}
+.socila_link .social li.twitter{background: #5088FD;}
+.socila_link .social li.google{background: #DC3700;}
+.socila_link .social li.linkedin{background: #3661B7;}
+.socila_link .social li.github{background: #555;}
+.socila_link .social li.youtube{background: #FF3939;}
+.socila_link .social li.skype{background: #459DFD;}
+.socila_link .social li:hover { transform: scale(1, 1.1); -ms-transform: scale(1, 1.1);-webkit-transform: scale(1,1.1);}
+.navbar-default .navbar-nav>li>a:hover{background: #0f7c83;color: #fff;}
+#header a.btn-custom{background: #0f7c83;border: 1px solid #0f7c83;float: left;color: #fff;}
+#header a.btn-custom:hover{background: #fff;color: #000;}
+.sign-in li:last-child{padding-left: 0;}
+.my-account{min-width: 100px;left: inherit;right: 0;}
+.my-account li{width: 100%;border-bottom: 1px solid #ddd;margin: 0;}
+.my-account li:hover a{background: #eee;}
+@media (min-width: 1200px){
+.container {
+    width: 1000px;
+}
+.pagination{margin: 0;}
+.banner-item:hover{border:1px solid #053d5e;}
+.job-image img{height: 100px;}
+.main-content{min-height: 300px;overflow: hidden;}
+.directory-list > li{width: 48%;float: left;margin: 5px;overflow: hidden;}
+.directory-list > li > a{font-size: 18px;color: }
+.directory-list > li>ul > li{float: left;margin:0 2px;}
+.directory-list > li>ul > li a{color: #000;}
+.directory-list > li>ul > li a:hover{color: #00a651;}
+#header a.btn{display: none;}
+.section.section-home{padding-top: 0px;}
+.item-image img.dashboard-img{max-height: 100px;}

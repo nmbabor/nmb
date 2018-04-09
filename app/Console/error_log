@@ -1,0 +1,1 @@
+[14-Nov-2017 23:37:18 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/combdebusines/public_html/app/Console/Kernel.php on line 8

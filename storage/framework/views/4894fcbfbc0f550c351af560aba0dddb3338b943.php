@@ -1,0 +1,1 @@
+<input type="number" min="1" max="<?php echo e($max+1); ?>" value="<?php echo e($max); ?>" name="serial_num" class="form-control" placeholder="Serial" required>
